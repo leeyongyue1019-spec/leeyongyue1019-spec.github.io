@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This article has been revised but has not yet been published.'
-date: feture
+date: 2026-12-31
 venue: 'Nature Communications'
 slidesurl: 'unpublish'
 paperurl: 'https://academicpages.github.io/files/paper2.pdf'
