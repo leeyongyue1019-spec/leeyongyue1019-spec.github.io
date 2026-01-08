@@ -5,11 +5,6 @@ var addressPoints = [
     -118.242766
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
-  ],
-  [
     "Screening of TIM3 Nanobody and Structural Analysis<br />PKUhsc, Department of pharmacy; Beijing , China",
     40.190632,
     116.412144
