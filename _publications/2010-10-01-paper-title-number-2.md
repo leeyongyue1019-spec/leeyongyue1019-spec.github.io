@@ -6,8 +6,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This article has been revised but has not yet been published.'
 date: 2026-12-19
 venue: 'Nature Communications'
-slidesurl: 'unpublish'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+
 citation: 'unpublished'
 ---
 
