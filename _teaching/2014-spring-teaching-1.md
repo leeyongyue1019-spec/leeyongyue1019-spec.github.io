@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
+title: "2025 China Pharmaceutical Association Symposium on Medicinal Chemistry"
+collection: meeting
+type: "participation"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Xinjiang Medical University"
+date: 2025-11-28
+location: "Urumqi Xinjiang,China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The theme of the meeting is the development of new drugs through the utilization of new targets and new technologies. Having understood the academic trends, the research perspective has been broadened.
 
 Heading 1
 ======
