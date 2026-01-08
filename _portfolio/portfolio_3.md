@@ -1,6 +1,6 @@
 ---
-title: "Doctoral Commencement Ceremony"
-excerpt: "Start a new beginning<br/><img src='/images/phd.png'>"
+title: "Undergraduate Graduation Ceremony"
+excerpt: "With Teacher Zhao and the friends in the laboratory<br/><img src='/images/ben.png'>"
 collection: Memories
 ---
 
