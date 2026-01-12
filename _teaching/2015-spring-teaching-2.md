@@ -4,7 +4,7 @@ collection: meeting
 type: "Organize and participate"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Peking University Health Sciences Center "
-date: 2015-12-10
+date: 2025-12-10
 location: "Beijing, China"
 ---
 
